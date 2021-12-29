@@ -1,0 +1,17 @@
+argparse
+datetime
+matplotlib
+numpy
+os
+pandas
+pandas_datareader
+pandas_market_calendars
+pathlib
+pickle
+random
+seaborn
+sklearn
+statistics
+sys
+xgboost
+yaml
